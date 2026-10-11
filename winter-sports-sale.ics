@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PTA La Chataigneraie//Winter Sports Sale//EN
+BEGIN:VEVENT
+UID:winter-sports-sale-2026@pta-lachataigneraie
+DTSTAMP:20261011T080000Z
+DTSTART:20261031T080000Z
+DTEND:20261031T110000Z
+SUMMARY:Winter Sports Sale
+LOCATION:La Châtaigneraie Primary School\, Route de Chavannes 62\, 1297 Founex
+DESCRIPTION:Winter Sports Sale organised by the PTA
+END:VEVENT
+END:VCALENDAR
